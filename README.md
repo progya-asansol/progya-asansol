@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @progya-asansol
+- 👋 Hi, I’m Progya
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...DSA, Java
 
